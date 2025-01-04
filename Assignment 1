@@ -1,0 +1,50 @@
+//Circumference of circle 
+//#include<iostream>
+//using namespace std ;
+//int main( )
+//{
+//    int r;
+//    float pie = 3.1415 ,cr ;
+//    cout<<"Enter the value of r ";
+//    cin>>r;
+//    cr=2*pie*r;
+//    cout<<" Circumference of circle = "<<cr;
+//    return 0;
+//}
+    // Even or odd
+//#include<iostream>
+//using namespace std;
+//int main( )
+//{
+//    int i;
+//    cout<<"Enter any integer ";
+//    cin>>i;
+//    if(i%2==0)
+//    {
+//        cout<<"This integer is Even ";
+//    }
+//    else
+//    {
+//        cout<<"This integer is odd";
+//    }
+//};
+    // Fibonacci  series
+//#include<iostream>
+//using namespace std;
+//int main ( )
+//{
+//    int n,f1,f2,f3;
+//    cout<<"Enter how many terms ";
+//    cin>>n;
+//    f1=1,f2=2;
+//    cout<<"fibonacci series ";
+//    cout<<f1<<endl<<f2<<endl;
+//    for( int i =2;i<n ;i++)
+//    {
+//        f3=f2+f1;
+//        cout<<f3<<endl;
+//        f1=f2;
+//        f2=f3;
+//    }
+//    return 0;
+//}
