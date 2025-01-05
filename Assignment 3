@@ -1,1 +1,111 @@
+//         Employee class
 
+// #include <iostream>
+// using namespace std;
+// class Employee
+// {
+// public: 
+//     string name;
+//     int salary;
+
+//     void display()
+//     {
+//         cout << "Name =   " << name<<endl  << "Salary =   " << salary << endl;
+//     }
+// };
+// int main()
+// {
+//     Employee ep;
+//     ep.name = "Dawood" ;
+//     ep.salary = 2500;
+//     ep.display();
+//     return 0;
+// }
+
+//       Area of Rectangle 
+//#include<iostream>
+//using namespace std ;
+//class rectangle
+//{
+//    public :
+//    void area( )
+//    {
+//        double  w ,l ,a;
+//        cout<<"Enter the length of rectangle =    "<<endl;
+//        cin>>l;
+//        cout<<"Enter the width of rectangle =    ";
+//        cin>>w;
+//        a= l*w ;
+//        cout<<" Area of rectangle =    "<<a;       
+//    }
+//};
+//int main ( )
+//{
+//    rectangle R ;
+//    R.area( );
+//    return 0;
+//}
+
+//         circumference of circle 
+//#include<iostream>
+//using namespace std ;
+//class circle
+//{
+//    public :
+//    void circumference( )
+//    {
+//        float  pie=3.1415,r,cr;
+//        cout<<"Enter the radius of circle =    "<<endl;
+//        cin>>r;
+//        cr= 2*pie*r ;
+//        cout<<" Circumference of circle  =    "<<cr;       
+//    }
+//};
+//int main ( )
+//{
+//    circle C ;
+//    C.circumference( );
+//    return 0;
+//}
+
+//       mobile class
+//#include<iostream>
+//using namespace std ;
+//class mobile
+//{
+//    public :
+//    void makeCall( )
+//    {
+//        cout<<" Calling...."<<endl;
+//    }
+//};
+//int main ( )
+//{
+//    mobile M ;
+//    M.makeCall( );
+//    return 0;
+//}
+
+          // Atributes of pen
+//#include<iostream>
+//using namespace std ;
+//class pen
+//{
+//    public :
+//    string color ;
+//    string model ;
+//    void write( )
+//    {
+//        cout<<" Writing message..."<<endl;       
+//    }
+//};
+//int main ( )
+//{
+//    pen mypen;
+//    mypen.color = "Blue" ;
+//    mypen.model = "PIANO";
+//    cout<<"Pen color = "<<mypen.color<<endl;
+//    cout<<"Pen model = "<<mypen.model<<endl;  
+//    mypen.write( );
+//    return 0;
+//}
