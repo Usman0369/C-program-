@@ -1,1 +1,57 @@
+//  In procedural programming,
+//    programs can become long and complicated because 
+//we often have to write the same code repeatedly. 
+//This happens because procedural programming doesn’t
+//support code reuse effectively.
 
+//In object-oriented programming (OOP),
+//       we don’t need to repeat code. Instead, we use
+//classes and objects to organize and reuse code. OOP 
+//also includes features like polymorphism (writing one
+//function that works in different ways), inheritance 
+//(using existing code to create new functionality), 
+//abstraction (hiding unnecessary details), and encapsulation
+//(keeping data and methods together). These features make OOP 
+//more efficient, organized, and easier to work with, especially
+//for large or complex programs.
+
+      // Car start
+//#include<iostream>
+//using namespace std;
+//class Car
+//{
+//public:
+//    void start()
+//    {
+//        cout << "Car is started" << endl;
+//    }
+//};
+//int main ( )
+//{
+//Car mycar;
+//mycar.start( );
+//return 0;
+//}
+
+ //       Basic Calculator
+// #include <iostream>
+// using namespace std;
+// class Calculator
+// {
+// public:
+//     int add(int a, int b) { return a + b; }
+//     int sub (int a, int b ) { return a-b; }
+//     int mul (int a, int b ) { return a*b; }
+//     int div (int a, int b ) { return a/b; }
+// };
+
+// int main()
+// {
+// cout<<"Welcome to OOP"<<endl;
+//     Calculator calc;
+//     cout << "Sum: " << calc.add(5, 3) << endl; 
+//      cout << "Subtraction : " << calc.sub(8, 4) << endl; 
+//       cout << "Multiplication : " << calc.mul(4, 5) << endl; 
+//        cout << "Sum: " << calc.div(20, 2) << endl; 
+//     return 0;
+// }
