@@ -1,4 +1,5 @@
 //Circumference of circle 
+
 //#include<iostream>
 //using namespace std ;
 //int main( )
@@ -11,6 +12,7 @@
 //    cout<<" Circumference of circle = "<<cr;
 //    return 0;
 //}
+
     // Even or odd
 //#include<iostream>
 //using namespace std;
@@ -27,7 +29,9 @@
 //    {
 //        cout<<"This integer is odd";
 //    }
-//};
+//     return 0;
+//}
+
     // Fibonacci  series
 //#include<iostream>
 //using namespace std;
@@ -48,6 +52,7 @@
 //    }
 //    return 0;
 //}
+
 //         second largest number
 //#include<iostream>
 //using namespace std;
@@ -74,6 +79,7 @@
 //    cout<<endl;
 //    return 0;
 //}
+
 //    Factorial function 
 //#include<iostream>
 //using namespace std;
@@ -94,4 +100,39 @@
 //		fact ( );
 //		cout<<endl;
 //return 0;
+//}
+//   Transpose of 2D array matric
+
+//#include <iostream>
+//using namespace std;
+//int main()
+//{
+//	int n[3 ][3],tr[3][3],i,j;
+//	cout<<"enter matrix element \n";
+//	for(i =0; i<3;i++)
+//	{
+//	    for(j=0;j<3;j++)
+//	    {
+//	        cout <<"Enter value of  matrix ["<<i<<"] [" <<j<<"]";
+//	        cin>>n[i][j];
+//	    }
+//	}
+//		for(int b=0; b<3;b++)
+//	{
+//	    for(int a=0;a<3;a++)
+//	    {
+//	        cout<<n[b][a];
+//	    }
+//	    cout<<"\n";
+//	}
+//	cout<<"matrix transport is ...\n";
+//	for(int b=0; b<3;b++)
+//	{
+//	    for(int a=0;a<3;a++)
+//	    {
+//	        cout<<n[a][b];
+//	    }
+//	    cout<<"\n";
+//	}
+//	return 0;
 //}
