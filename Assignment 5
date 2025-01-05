@@ -1,1 +1,27 @@
+//  Access modifier Bank 
 
+//#include <iostream>
+// using namespace std;
+
+// class Bank
+// {
+// private:
+//     double balance;
+
+// public:
+//     void deposit(int amount)
+//     {
+//         balance += amount;
+//     }
+//     void showBalance()
+//     {
+//         cout << "Balance: " << balance << endl;
+//     }
+// };
+// int main()
+// {
+//     Bank B;
+//     B.deposit(15000);
+//     B.showBalance();
+//     return 0;
+// }
