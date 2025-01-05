@@ -1,1 +1,70 @@
+// shape fun overriding 
 
+//#include<iostream>
+//using namespace std;
+//class shape 
+//{
+//    public :
+//   void draw( )
+//    {
+//    cout<<"Rectangle shape is draw "<<endl;
+//    }
+//};
+//class circle : public shape
+//{
+//    public :
+//   void draw( )
+//    {
+//        cout<<"Circle shape is draw "<<endl;
+//    }
+//};
+//class square : public circle
+//{
+//    public :
+//    void draw( )
+//    {
+//    cout<<"Square shape is draw "<<endl;
+//}
+//};
+//int main ( ) 	
+//{
+//    square S;
+//    S.draw( );
+//    return 0;
+//}
+//    Sound fun overriding 
+
+//#include<iostream>
+//using namespace std ;
+//class animal
+//{
+//    public :
+//    void makeSound( )
+//    {
+//        cout<<"Animal voice "<<endl;
+//        }
+//        };
+//        class dog : public animal
+//        {
+//            public :
+//            void makeSound( )
+//            {
+//                cout<<"Dog can bark "<<endl;
+//            }
+//        };
+//        class cat : public dog
+//        {
+//                public :
+//                void makeSound( )
+//                {
+//                    cout<<"Cat said meow"<<endl;
+//                    }
+//                    };
+//                    int main ( )
+//                    {
+//                        dog obj;
+//                        obj.makeSound( );
+//                        cat C;
+//                        C.makeSound( );
+//                        return 0;
+//                        } 
